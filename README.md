@@ -28,7 +28,9 @@ I continuously seek opportunities to expand my knowledge and expertise.
 
 
 **Technologies I have worked with:**
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,express,nodejs,prisma,mongodb,vite,sqlite,flask,npm,linux,vscode,pycharm,webstorm,postman,github,latex,vercel,materialui,bootstrap,ps,pr,bash)](https://skillicons.dev"/>
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,prisma,mongodb,vite,sqlite,flask)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm,linux,vscode,pycharm,webstorm,postman,github,latex)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vercel,materialui,bootstrap,ps,pr,bash)](https://skillicons.dev)
