@@ -16,7 +16,7 @@ I'm a Technology Enthusiast  💻
 
 I am looking to leverage my skills and knowledge in growing fields of Technology.
 
- I continuously seek opportunities to expand my knowledge and expertise. 
+I continuously seek opportunities to expand my knowledge and expertise. 
 
 💬 Ask me about anything and everything 
 
@@ -24,11 +24,11 @@ I am looking to leverage my skills and knowledge in growing fields of Technology
 
 **Languages:**
 
-![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,c)
 
 
 **Technologies I have worked with:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,mongodb,express,linux,vite,sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,latex,flask,vscode,postman,github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vercel,materialui,bootstrap,ps,pr,bash,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,,prisma,mongodb,vite,sqlite,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,linux,vscode,pycharm,webstorm,postman,github,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,materialui,bootstrap,ps,pr,bash)](https://skillicons.dev)
