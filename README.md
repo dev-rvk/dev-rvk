@@ -5,6 +5,7 @@
 ### 👨‍💻 About:
 <hr>
 <div align="center">
+<span> ![](https://komarev.com/ghpvc/?username=dev-rvk&style=for-the-badge) </span>
 <span><a href="https://www.linkedin.com/in/raghav-korde/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
 </span>
 <span><a href="https://www.instagram.com/raghav_korde/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
