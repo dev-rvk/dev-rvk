@@ -1,6 +1,5 @@
 <!--- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
  -->
-<h1 align="Center">  नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30 px"/> , I'm Raghav</h1>
 
 ### 👨‍💻 About:
 <hr>
@@ -13,13 +12,9 @@
 </div>
 <hr>
 
-I'm a Technology Enthusiast  💻
+Hello! I am a final-year student at VJTI. I am looking to leverage my skills and knowledge in growing fields of Technology. I continuously seek opportunities to expand my knowledge and expertise.
 
-I am looking to leverage my skills and knowledge in growing fields of Technology.
-
-I continuously seek opportunities to expand my knowledge and expertise. 
-
-💬 Ask me about anything and everything 
+I am enthusiastic about collaborating with like-minded professionals, engaging in projects and contributing to the ever-evolving world of technology.
 
 
 
